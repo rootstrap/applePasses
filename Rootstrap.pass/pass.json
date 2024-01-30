@@ -1,0 +1,54 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.rootstrap.eventpass",
+  "serialNumber" : "p69f2J",
+  "teamIdentifier" : "WNU857N39T",
+  "webServiceURL" : "https://example.com/passes/",
+  "authenticationToken" : "vxwxd7J8AlNNFPS8k0a0FfUFtq0ewzFdc",
+  "locations" : [
+    {
+      "longitude" : -122.3748889,
+      "latitude" : 37.6189722
+    }
+  ],
+  "barcode" : {
+    "message" : "123456789",
+    "format" : "PKBarcodeFormatPDF417",
+    "messageEncoding" : "iso-8859-1"
+  },
+  "organizationName" : "Rootstrap",
+  "description" : "Roostrap Party",
+  "logoText" : "Rootstrap",
+  "Description"
+  "foregroundColor" : "rgb(255, 255, 255)",
+  "backgroundColor" : "rgb(255, 200, 63)",
+  "labelColor" : "rgb(255, 255, 255)",
+  "eventTicket" : {
+    "headerFields" : [
+      {
+        "key" : "name",
+        "label" : "Guest",
+        "value" : "Karen Stoletniy"
+      }
+    ],
+    "primaryFields" : [
+      {
+        "key" : "event",
+        "label" : "EVENT",
+        "value" : "Rootstrap Party"
+      }
+    ],
+  "secondaryFields" : [
+      {
+        "key" : "loc",
+        "label" : "LOCATION",
+        "value" : "Unknown"
+      },
+      {
+        "key" : "date",
+        "label" : "Date",
+        "value" : "8 of Nov, 8PM"
+      }
+    ]
+  }
+}
